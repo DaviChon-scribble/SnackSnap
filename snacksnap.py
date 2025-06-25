@@ -3,7 +3,6 @@ from importlib import reload
 import streamlit as st
 from PIL import Image
 import numpy as np
-import torch
 import torchvision.transforms as transforms
 from streamlit import page_link
 from torchvision import models
